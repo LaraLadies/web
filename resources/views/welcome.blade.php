@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
-    <title>Cover Template for Bootstrap</title>
+    <title>LaraLadies - Ladies of the Laravel Community</title>
     <!-- Bootstrap core CSS -->
     <link href="css/app.css" rel="stylesheet">
     <!-- Custom styles for this template -->
